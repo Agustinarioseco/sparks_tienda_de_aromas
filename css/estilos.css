@@ -286,7 +286,7 @@ div h6{
         "logo-menu menu despegable";
         grid-template-columns: 110px 1fr 90px;
         grid-template-rows:110px;
-        align-items: center;
+        align-items: baseline;
         align-content: center;
     }
     .despegable{
