@@ -64,6 +64,11 @@ nav ul li a{
     margin: 15px;
 
 }
+a:hover{
+    color: #e0c74f;
+    opacity: 50%;
+    padding: 5px;
+}
 .lista-menu{
     list-style:none;
     font-size: 25px;
